@@ -1,0 +1,2 @@
+# potensi
+ lokasi potensi testing
